@@ -1,0 +1,23 @@
+{
+    "name": "Planner",
+    "short_name": "Planner",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#292d31",
+    "theme_color": "#292d31",
+    "description": "Planner is PWA that make your life harder than you thing.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
